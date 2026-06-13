@@ -12,15 +12,13 @@ Satellite Communications | GNSS | NTN/LEO Networks | Signal Processing
 
 ### 🛰️ About Me
 
-I'm an M.Sc. student in Communication Systems and Networks, interested in the intersection of **Artificial Intelligence, Machine Learning, and satellite/wireless communication systems**.
+I'm an M.Sc. student in Communication Systems and Networks, interested in the intersection of AI/ML, satellite communications, and future wireless systems.
 
-My current research direction is focused on applying AI/ML techniques to future communication networks, especially satellite-enabled and non-terrestrial networks.
+I am currently exploring how AI/ML can be used in satellite-enabled and non-terrestrial networks, especially for:
 
-Main areas of interest:
-
-* ML-based channel estimation for satellite and wireless communication systems
-* AI-driven resource management in NTN and LEO satellite networks
-* Signal processing for communication systems and GNSS receivers
+ML-based channel estimation for satellite and wireless communication systems
+AI-driven resource management in NTN and LEO satellite networks
+Signal processing for communication systems and GNSS receivers
 
 ---
 
@@ -29,7 +27,7 @@ Main areas of interest:
 * GPS receiver design and tracking loops
 * Carrier tracking and code tracking implementation
 * Communication system simulation using Python and MATLAB
-* Building a stronger foundation in RF, radio, and wireless communications
+* Strengthening my background in RF, radio communication, and wireless systems
 
 ---
 
