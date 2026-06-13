@@ -44,10 +44,13 @@ Currently, I'm focusing on:
 ### 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simulink" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <a href="https://www.mathworks.com/products/simulink.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simulink" width="45" height="45"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a>
 </p>
+
 
 **Programming & Simulation:**
 Python · MATLAB · Simulink
