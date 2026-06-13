@@ -56,7 +56,7 @@ AI/ML for Wireless Communications · ML-based Channel Estimation · AI-driven Re
 
 ### 🎯 Long-Term Goal
 
-My long-term goal is to contribute to intelligent satellite and future wireless communication systems by combining **AI/ML methods** with **signal processing, channel estimation, and resource optimization** techniques.
+I want to work on AI/ML-based methods that make satellite and future wireless networks more efficient, especially in channel estimation, signal processing, and resource management.
 
 ---
 
