@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hi, I'm Alireza Ramyad 👋</h1>
 
 <h3 align="center">
@@ -43,14 +44,33 @@ Currently, I'm focusing on:
 
 ### 🛠️ Skills & Tools
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
 **Programming & Simulation:**
-Python · MATLAB · Git · GitHub
+Python · MATLAB · Simulink
 
 **Communication Background:**
 Satellite Communications · GNSS · RF Fundamentals · Radio Communications · Wireless Communications · Signal Processing
 
 **Research Direction:**
 AI/ML for Wireless Communications · ML-based Channel Estimation · AI-driven Resource Management · NTN · LEO Satellite Networks · 6G Communications
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlirezaRamyad&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaRamyad&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaRamyad&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
@@ -62,6 +82,13 @@ I want to work on AI/ML-based methods that make satellite and future wireless ne
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alireza%20Ramyad-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alireza-ramyad)
+<p align="left">
+  <a href="https://www.linkedin.com/in/alireza-ramyad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Alireza%20Ramyad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?logo=gmail\&logoColor=white)](mailto:ali.ram.yad78@gmail.com)
+  <a href="mailto:ali.ram.yad78@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+```
