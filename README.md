@@ -8,15 +8,6 @@ AI/ML for Satellite and Future Wireless Communication Systems
 Satellite Communications | GNSS | NTN/LEO Networks | Signal Processing
 </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alireza-ramyad">
-    <img src="https://img.shields.io/badge/LinkedIn-Alireza%20Ramyad-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 🛰️ About Me
