@@ -44,9 +44,9 @@ Currently, I'm focusing on:
 ### 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simulink" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 </p>
 
 **Programming & Simulation:**
@@ -62,13 +62,13 @@ AI/ML for Wireless Communications · ML-based Channel Estimation · AI-driven Re
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlirezaRamyad&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaRamyad&layout=compact&theme=github_dark&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaRamyad&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaRamyad&show_icons=true" alt="Alireza Ramyad's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaRamyad&theme=github-dark-blue&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaRamyad" alt="GitHub Streak" />
 </p>
 
 ---
@@ -83,10 +83,9 @@ I want to work on AI/ML-based methods that make satellite and future wireless ne
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alireza-ramyad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Alireza%20Ramyad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
   </a>
-
   <a href="mailto:ali.ram.yad78@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="35" height="35"/>
   </a>
 </p>
