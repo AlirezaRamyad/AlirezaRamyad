@@ -14,9 +14,9 @@ Satellite Communications | GNSS | NTN/LEO Networks | Signal Processing
 
 I'm an M.Sc. student in Communication Systems and Networks, with a B.Sc. background in **Computer Engineering**.
 
-My main interest is using **AI/ML** in satellite and wireless communication systems, especially for future networks such as NTN and LEO satellite networks.
+My main interest is using **AI/ML** in satellite and wireless communication systems, especially for future networks such as NTN and LEO systems.
 
-Currently, I am focusing on:
+Currently, I'm focusing on:
 
 * ML-based channel estimation for satellite and wireless communication systems
 * AI-based resource management in NTN and LEO satellite networks
