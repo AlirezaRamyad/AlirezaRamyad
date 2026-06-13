@@ -14,6 +14,8 @@ Satellite Communications | GNSS | NTN/LEO Networks | Signal Processing
 
 I'm an M.Sc. student in Communication Systems and Networks, interested in the intersection of AI/ML, satellite communications, and future wireless systems.
 
+My academic background also includes a B.Sc. in Computer Engineering, which supports my work in programming, simulation, and AI/ML-based communication system design.
+
 I am currently exploring how AI/ML can be used in satellite-enabled and non-terrestrial networks, especially for:
 
 ML-based channel estimation for satellite and wireless communication systems
