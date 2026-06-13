@@ -62,14 +62,15 @@ AI/ML for Wireless Communications · ML-based Channel Estimation · AI-driven Re
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaRamyad&layout=compact" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaRamyad&show_icons=true" alt="Alireza Ramyad's GitHub Stats" />
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=AlirezaRamyad&show_icons=true&theme=github_dark&hide_border=true" alt="Alireza Ramyad's GitHub Stats" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaRamyad&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaRamyad" alt="GitHub Streak" />
+<p align="center">
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaRamyad&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
