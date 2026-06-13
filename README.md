@@ -74,14 +74,6 @@ AI/ML for Wireless Communications · ML-based Channel Estimation · AI-driven Re
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaRamyad&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/forks/AlirezaRamyad/GPS-Code-Tracking-DLL?style=social" alt="GPS Code Tracking DLL Forks" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/forks/AlirezaRamyad/GPS-Receiver-Carrier-Tracking?style=social" alt="GPS Receiver Carrier Tracking Forks" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/forks/AlirezaRamyad/Python-Chess-AI-Game?style=social" alt="Python Chess AI Game Forks" />
-</p>
-
 ---
 
 ### 🎯 Long-Term Goal
