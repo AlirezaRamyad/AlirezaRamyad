@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Alireza Ramyad 👋</h1>
 
 <h3 align="center">
@@ -91,4 +90,3 @@ I want to work on AI/ML-based methods that make satellite and future wireless ne
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-```
