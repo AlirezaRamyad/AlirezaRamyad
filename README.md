@@ -35,5 +35,5 @@ Python · MATLAB · Signal Processing · GNSS · Satellite Communications · Git
 
 ### 📫 Contact
 
-LinkedIn:  
+LinkedIn:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alireza%20Ramyad-0077B5?logo=linkedin)](https://www.linkedin.com/in/alireza-ramyad)
 Email:
