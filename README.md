@@ -3,7 +3,7 @@
 <h3 align="center">
 M.Sc. Student in Communication Systems & Networks
 <br>
-AI/ML for Satellite and Future Wireless Communication Systems
+AI/ML for Satellite & Future Wireless Systems
 <br>
 Satellite Communications | GNSS | NTN/LEO Networks | Signal Processing
 </h3>
