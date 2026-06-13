@@ -82,10 +82,8 @@ I want to work on AI/ML-based methods that make satellite and future wireless ne
 ### 📫 Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alireza-ramyad" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
-  </a>
-  <a href="mailto:ali.ram.yad78@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="35" height="35"/>
-  </a>
+  <a href="https://www.linkedin.com/in/alireza-ramyad" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ali.ram.yad78@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="35" height="35"/></a>
 </p>
+
