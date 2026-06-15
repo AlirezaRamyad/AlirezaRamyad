@@ -31,6 +31,10 @@ I'm currently focused on GPS receiver design and tracking loops — implementing
 
 ### Background & Tools
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlirezaRamyad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 I mainly work with Python, MATLAB, and Simulink. My background covers satellite communications, GNSS, RF fundamentals, and signal processing, and my current research direction is AI/ML for wireless communications — channel estimation, resource management, and 6G/NTN/LEO networks.
 
 <p align="left">
