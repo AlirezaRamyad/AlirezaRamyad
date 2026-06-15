@@ -46,15 +46,14 @@ I mainly work with Python, MATLAB, and Simulink. My background covers satellite 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlirezaRamyad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=AlirezaRamyad&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true" alt="Alireza Ramyad's GitHub Stats" />
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaRamyad&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </p>
 <p align="center">
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaRamyad&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlirezaRamyad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
