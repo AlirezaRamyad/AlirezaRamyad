@@ -56,7 +56,7 @@ I mainly work with Python, MATLAB, and Simulink. My background covers satellite 
 </p>
 
 <p align="center">
-  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaRamyad&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img width="500" src="https://streak-stats.demolab.com/?user=AlirezaRamyad&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
